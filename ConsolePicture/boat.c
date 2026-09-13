@@ -4,7 +4,7 @@
 int main()
 {
     setlocale(LC_CTYPE, ".UTF8");
-
+    puts("Выполнил: Лавлинский А.Е.");
     puts(
         "         ____\n"
         "        | || |         \n"
